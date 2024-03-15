@@ -23,7 +23,7 @@ A solid base for any of your node based tools in Unity
 ### Installation
 Clone repository into your Unity project's Assets directory:
 ```
-$ git clone https://github.com/devcheatsheets/node-cs
+$ https://github.com/devcheatsheets/node-editor-base.git
 ```
 ### Using the editor
 #### Open the editor window
